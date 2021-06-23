@@ -50,7 +50,7 @@ int main()
 
 	for (i = 0; i < n; i++)
 		a = push(a, i);
-	TheEnd(a); // êðóã
+	TheEnd(a); // ÐºÑ€ÑƒÐ³
 	while (a->next != a) {
 		for (m = 0; m < 5; m++)//
 		{
